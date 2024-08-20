@@ -6,7 +6,7 @@
   - https://www.kaggle.com/code/milkbottledude/titanical-machine-learning-mark-ii (latest version)
 
 3) House Prices - Advanced Regression Techniques
-   - https://www.kaggle.com/milkbottledude/house-prices-advanced-regression-techniques
+  - https://www.kaggle.com/milkbottledude/house-prices-advanced-regression-techniques
 
 Check out my Kaggle notebooks for detailed analyses and solutions :)
 
