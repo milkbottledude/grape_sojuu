@@ -14,4 +14,5 @@ Check out my Kaggle notebooks for detailed analyses and solutions :)
 [LeetCode Profile](https://leetcode.com/u/milkbottledude/)
 ## LeetCode Courses Completed:
 - Introduction to Data Structure, Arrays 101
+- Introduction to Data Structure, Arrays and String
 - 
