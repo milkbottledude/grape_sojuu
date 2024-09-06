@@ -48,3 +48,6 @@ for index, row in nottidy.iterrows():
 
 tidy = pd.DataFrame(keep, columns=nottidy.columns)
 print(tidy)
+
+csvfile_path = r"C:\Users\Yu Zen\Documents\Coding\grape_soju\Project-holowiki\tidy_fanwiki.csv"
+tidy.to_csv(csvfile_path, mode='w', header=True, index=False)
