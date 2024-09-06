@@ -21,3 +21,19 @@ for line in all:
         data.append(toadd[:-1])
 
 
+nottidy = pd.DataFrame(columns=['emblem', 'name', 'date', 'gen'])
+row = []
+
+reset = 0
+for dongxi in data:
+    if reset == 4:
+        row = pd.DataFrame([row], columns=nottidy.columns)
+        nottidy = pd.concat([nottidy, row], ignore_index=True)
+        row = []
+        row.append(dongxi)
+        reset = 1
+    else:
+        row.append(dongxi)
+        reset += 1
+
+print(nottidy[70:])
