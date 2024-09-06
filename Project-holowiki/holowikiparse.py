@@ -15,7 +15,7 @@ all = content.find_all('td')
 data = []
 for line in all:
     toadd = str(line.get_text())
-    if 'Debuted as' in toadd:
+    if 'Debuted as' in toadd or 'Mococo' in toadd:
         continue
     else:
         data.append(toadd[:-1])
@@ -36,4 +36,15 @@ for dongxi in data:
         row.append(dongxi)
         reset += 1
 
+nottidy.iloc[73, 1] = 'Fuwawa and Mococo Abyssgard'
 print(nottidy[70:])
+
+keep = []
+for index, row in nottidy.iterrows():
+    if 'HOLOSTARS' in row['gen']:
+        continue
+    else:
+        keep.append(row)
+
+tidy = pd.DataFrame(keep, columns=nottidy.columns)
+print(tidy)
