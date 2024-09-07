@@ -1,65 +1,65 @@
-emblem,name,date,gen
-🐻,Tokino Sora,2017-09-07,hololive Generation 0
-🤖,Roboco,2018-03-04,hololive Generation 0
-🌸,Sakura Miko,2018-08-01,hololive Generation 0
-☄️,Hoshimachi Suisei,2018-03-22,hololive Generation 0
-⚒️,AZKi,2018-11-15,hololive Generation 0
-🌽,Shirakami Fubuki,2018-06-01,"hololive 1st Generation, hololive Gamers"
-🏮,Natsuiro Matsuri,2018-06-01,hololive 1st Generation
-🍎,Aki Rosenthal,2018-06-01,hololive 1st Generation
-❤️‍🔥,Akai Haato,2018-06-02,hololive 1st Generation
-🌙,Murasaki Shion,2018-08-17,hololive 2nd Generation
-😈,Nakiri Ayame,2018-09-03,hololive 2nd Generation
-💋,Yuzuki Choco,2018-09-04,hololive 2nd Generation
-🚑,Oozora Subaru,2018-09-16,hololive 2nd Generation
-🌲,Ookami Mio,2018-12-07,hololive Gamers
-🍙,Nekomata Okayu,2019-04-06,hololive Gamers
-🥐,Inugami Korone,2019-04-13,hololive Gamers
-👯,Usada Pekora,2019-07-17,hololive 3rd Generation
-🔥,Shiranui Flare,2019-08-07,hololive 3rd Generation
-⚔️,Shirogane Noel,2019-08-08,hololive 3rd Generation
-🏴‍☠️,Houshou Marine,2019-08-11,hololive 3rd Generation
-💫,Amane Kanata,2019-12-27,hololive 4th Generation
-🐏,Tsunomaki Watame,2019-12-29,hololive 4th Generation
-👾,Tokoyami Towa,2020-01-03,hololive 4th Generation
-🍬,Himemori Luna,2020-01-04,hololive 4th Generation
-☃️,Yukihana Lamy,2020-08-12,hololive 5th Generation
-🍑🥟,Momosuzu Nene,2020-08-13,hololive 5th Generation
-♌,Shishiro Botan,2020-08-14,hololive 5th Generation
-🎪,Omaru Polka,2020-08-16,hololive 5th Generation
-🐿️,Ayunda Risu,2020-04-10,hololive ID 1st Generation
-🔮,Moona Hoshinova,2020-04-11,hololive ID 1st Generation
-🎨,Airani Iofifteen,2020-04-12,hololive ID 1st Generation
-🧟‍♀️,Kureiji Ollie,2020-12-04,hololive ID 2nd Generation
-🍂,Anya Melfissa,2020-12-05,hololive ID 2nd Generation
-🦚,Pavolia Reine,2020-12-06,hololive ID 2nd Generation
-💀,Mori Calliope,2020-09-12,hololive EN -Myth-
-🐔,Takanashi Kiara,2020-09-12,hololive EN -Myth-
-🐙,Ninomae Ina'nis,2020-09-13,hololive EN -Myth-
-🔱,Gawr Gura,2020-09-13,hololive EN -Myth-
-🔎,Watson Amelia,2020-09-13,hololive EN -Myth-
-💎,IRyS,2021-07-11,hololive EN -Promise-
-🌿,Ceres Fauna,2021-08-22,hololive EN -Promise-
-⏳,Ouro Kronii,2021-08-22,hololive EN -Promise-
-🪶,Nanashi Mumei,2021-08-22,hololive EN -Promise-
-🎲,Hakos Baelz,2021-08-22,hololive EN -Promise-
-🛸💜,La+ Darknesss,2021-11-26,hololive 6th Generation
-🥀,Takane Lui,2021-11-27,hololive 6th Generation
-🧪,Hakui Koyori,2021-11-28,hololive 6th Generation
-🎣,Sakamata Chloe,2021-11-29,hololive 6th Generation
-🍃,Kazama Iroha,2021-11-30,hololive 6th Generation
-📜,Vestia Zeta,2022-03-25,hololive ID 3rd Generation
-🔨,Kaela Kovalskia,2022-03-26,hololive ID 3rd Generation
-☔,Kobo Kanaeru,2022-03-27,hololive ID 3rd Generation
-👁️‍🗨️,Shiori Novella,2023-07-29,hololive EN -Advent-
-🗿,Koseki Bijou,2023-07-29,hololive EN -Advent-
-🎼,Nerissa Ravencroft,2023-07-30,hololive EN -Advent-
-🐾,Fuwawa and Mococo Abyssgard,2023-07-30,hololive EN -Advent-
-🖋️,Hiodoshi Ao,2023-09-09,hololive DEV_IS ReGLOSS
-🎹✨,Otonose Kanade,2023-09-09,hololive DEV_IS ReGLOSS
-🌃,Ichijou Ririka,2023-09-09,hololive DEV_IS ReGLOSS
-🐚,Juufuutei Raden,2023-09-10,hololive DEV_IS ReGLOSS
-🐧⚡️,Todoroki Hajime,2023-09-10,hololive DEV_IS ReGLOSS
-💄,Elizabeth Rose Bloodflame,2024-06-21,hololive EN -Justice-
-👧,Gigi Murin,2024-06-21,hololive EN -Justice-
-🍵,Cecilia Immergreen,2024-06-22,hololive EN -Justice-
+emblem,name,date,gen,channel_url
+🐻,Tokino Sora,2017-09-07,hololive Generation 0,https://www.youtube.com/@TokinoSora
+🤖,Roboco,2018-03-04,hololive Generation 0,https://www.youtube.com/@Roboco
+🌸,Sakura Miko,2018-08-01,hololive Generation 0,https://www.youtube.com/@SakuraMiko
+☄️,Hoshimachi Suisei,2018-03-22,hololive Generation 0,https://www.youtube.com/@HoshimachiSuisei
+⚒️,AZKi,2018-11-15,hololive Generation 0,https://www.youtube.com/@AZKi
+🌽,Shirakami Fubuki,2018-06-01,"hololive 1st Generation, hololive Gamers",https://www.youtube.com/@ShirakamiFubuki
+🏮,Natsuiro Matsuri,2018-06-01,hololive 1st Generation,https://www.youtube.com/@NatsuiroMatsuri
+🍎,Aki Rosenthal,2018-06-01,hololive 1st Generation,https://www.youtube.com/@AkiRosenthal
+❤️‍🔥,Akai Haato,2018-06-02,hololive 1st Generation,https://www.youtube.com/@AkaiHaato
+🌙,Murasaki Shion,2018-08-17,hololive 2nd Generation,https://www.youtube.com/@MurasakiShion
+😈,Nakiri Ayame,2018-09-03,hololive 2nd Generation,https://www.youtube.com/@NakiriAyame
+💋,Yuzuki Choco,2018-09-04,hololive 2nd Generation,https://www.youtube.com/@YuzukiChoco
+🚑,Oozora Subaru,2018-09-16,hololive 2nd Generation,https://www.youtube.com/@OozoraSubaru
+🌲,Ookami Mio,2018-12-07,hololive Gamers,https://www.youtube.com/@OokamiMio
+🍙,Nekomata Okayu,2019-04-06,hololive Gamers,https://www.youtube.com/@NekomataOkayu
+🥐,Inugami Korone,2019-04-13,hololive Gamers,https://www.youtube.com/@InugamiKorone
+👯,Usada Pekora,2019-07-17,hololive 3rd Generation,https://www.youtube.com/@UsadaPekora
+🔥,Shiranui Flare,2019-08-07,hololive 3rd Generation,https://www.youtube.com/@ShiranuiFlare
+⚔️,Shirogane Noel,2019-08-08,hololive 3rd Generation,https://www.youtube.com/@ShiroganeNoel
+🏴‍☠️,Houshou Marine,2019-08-11,hololive 3rd Generation,https://www.youtube.com/@HoushouMarine
+💫,Amane Kanata,2019-12-27,hololive 4th Generation,https://www.youtube.com/@AmaneKanata
+🐏,Tsunomaki Watame,2019-12-29,hololive 4th Generation,https://www.youtube.com/@TsunomakiWatame
+👾,Tokoyami Towa,2020-01-03,hololive 4th Generation,https://www.youtube.com/@TokoyamiTowa
+🍬,Himemori Luna,2020-01-04,hololive 4th Generation,https://www.youtube.com/@HimemoriLuna
+☃️,Yukihana Lamy,2020-08-12,hololive 5th Generation,https://www.youtube.com/@YukihanaLamy
+🍑🥟,Momosuzu Nene,2020-08-13,hololive 5th Generation,https://www.youtube.com/@MomosuzuNene
+♌,Shishiro Botan,2020-08-14,hololive 5th Generation,https://www.youtube.com/@ShishiroBotan
+🎪,Omaru Polka,2020-08-16,hololive 5th Generation,https://www.youtube.com/@OmaruPolka
+🐿️,Ayunda Risu,2020-04-10,hololive ID 1st Generation,https://www.youtube.com/@AyundaRisu
+🔮,Moona Hoshinova,2020-04-11,hololive ID 1st Generation,https://www.youtube.com/@MoonaHoshinova
+🎨,Airani Iofifteen,2020-04-12,hololive ID 1st Generation,https://www.youtube.com/@AiraniIofifteen
+🧟‍♀️,Kureiji Ollie,2020-12-04,hololive ID 2nd Generation,https://www.youtube.com/@KureijiOllie
+🍂,Anya Melfissa,2020-12-05,hololive ID 2nd Generation,https://www.youtube.com/@AnyaMelfissa
+🦚,Pavolia Reine,2020-12-06,hololive ID 2nd Generation,https://www.youtube.com/@PavoliaReine
+💀,Mori Calliope,2020-09-12,hololive EN -Myth-,https://www.youtube.com/@MoriCalliope
+🐔,Takanashi Kiara,2020-09-12,hololive EN -Myth-,https://www.youtube.com/@TakanashiKiara
+🐙,Ninomae Ina'nis,2020-09-13,hololive EN -Myth-,https://www.youtube.com/@NinomaeIna'nis
+🔱,Gawr Gura,2020-09-13,hololive EN -Myth-,https://www.youtube.com/@GawrGura
+🔎,Watson Amelia,2020-09-13,hololive EN -Myth-,https://www.youtube.com/@WatsonAmelia
+💎,IRyS,2021-07-11,hololive EN -Promise-,https://www.youtube.com/@IRyS
+🌿,Ceres Fauna,2021-08-22,hololive EN -Promise-,https://www.youtube.com/@CeresFauna
+⏳,Ouro Kronii,2021-08-22,hololive EN -Promise-,https://www.youtube.com/@OuroKronii
+🪶,Nanashi Mumei,2021-08-22,hololive EN -Promise-,https://www.youtube.com/@NanashiMumei
+🎲,Hakos Baelz,2021-08-22,hololive EN -Promise-,https://www.youtube.com/@HakosBaelz
+🛸💜,La+ Darknesss,2021-11-26,hololive 6th Generation,https://www.youtube.com/@La+Darknesss
+🥀,Takane Lui,2021-11-27,hololive 6th Generation,https://www.youtube.com/@TakaneLui
+🧪,Hakui Koyori,2021-11-28,hololive 6th Generation,https://www.youtube.com/@HakuiKoyori
+🎣,Sakamata Chloe,2021-11-29,hololive 6th Generation,https://www.youtube.com/@SakamataChloe
+🍃,Kazama Iroha,2021-11-30,hololive 6th Generation,https://www.youtube.com/@KazamaIroha
+📜,Vestia Zeta,2022-03-25,hololive ID 3rd Generation,https://www.youtube.com/@VestiaZeta
+🔨,Kaela Kovalskia,2022-03-26,hololive ID 3rd Generation,https://www.youtube.com/@KaelaKovalskia
+☔,Kobo Kanaeru,2022-03-27,hololive ID 3rd Generation,https://www.youtube.com/@KoboKanaeru
+👁️‍🗨️,Shiori Novella,2023-07-29,hololive EN -Advent-,https://www.youtube.com/@ShioriNovella
+🗿,Koseki Bijou,2023-07-29,hololive EN -Advent-,https://www.youtube.com/@KosekiBijou
+🎼,Nerissa Ravencroft,2023-07-30,hololive EN -Advent-,https://www.youtube.com/@NerissaRavencroft
+🐾,Fuwawa and Mococo Abyssgard,2023-07-30,hololive EN -Advent-,https://www.youtube.com/@FUWAMOCOch
+🖋️,Hiodoshi Ao,2023-09-09,hololive DEV_IS ReGLOSS,https://www.youtube.com/@HiodoshiAo
+🎹✨,Otonose Kanade,2023-09-09,hololive DEV_IS ReGLOSS,https://www.youtube.com/@OtonoseKanade
+🌃,Ichijou Ririka,2023-09-09,hololive DEV_IS ReGLOSS,https://www.youtube.com/@IchijouRirika
+🐚,Juufuutei Raden,2023-09-10,hololive DEV_IS ReGLOSS,https://www.youtube.com/@JuufuuteiRaden
+🐧⚡️,Todoroki Hajime,2023-09-10,hololive DEV_IS ReGLOSS,https://www.youtube.com/@TodorokiHajime
+💄,Elizabeth Rose Bloodflame,2024-06-21,hololive EN -Justice-,https://www.youtube.com/@ElizabethRoseBloodflame
+👧,Gigi Murin,2024-06-21,hololive EN -Justice-,https://www.youtube.com/@GigiMurin
+🍵,Cecilia Immergreen,2024-06-22,hololive EN -Justice-,https://www.youtube.com/@CeciliaImmergreen
