@@ -1,0 +1,30 @@
+import pandas as pd
+from bs4 import BeautifulSoup
+import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+
+table = pd.read_csv(r"C:\Users\Yu Zen\Documents\Coding\grape_soju\Project-holowiki\tidy_fanwiki.csv")
+# for url in table['channel_url']:
+
+url = 'https://www.youtube.com/@FUWAMOCOch'
+page = requests.get(url)
+page_content = page.content
+soup = BeautifulSoup(page_content, 'html.parser')
+
+
+driver_service = Service(executable_path=r"C:\Users\Yu Zen\Documents\Coding\chromedriver-win64\chromedriver.exe")
+driver = webdriver.Chrome(service=driver_service)
+driver.get(url)
+driver.implicitly_wait(10)
+try:
+    lines = driver.find_elements(By.CSS_SELECTOR, "span[dir='auto'][role='text'][class='yt-core-attributed-string yt-content-metadata-view-model-wiz__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color']")
+    for line in lines:
+        print(f"info: {line.text}")
+except Exception as e:
+    print(f"Error: {e}")
+
+# Close the browser
+driver.quit()

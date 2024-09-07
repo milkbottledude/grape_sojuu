@@ -2,7 +2,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import csv
 import requests
-import emoji
 
 url = 'https://hololive.wiki/wiki/Members'
 page = requests.get(url)
@@ -61,4 +60,3 @@ for namae in tidy['name']:
 tidy['channel_url'] = channelurl
 tidy.at[73, 'channel_url'] = 'https://www.youtube.com/@FUWAMOCOch'
 tidy.to_csv(csvfile_path, mode='w', header=True, index=False)
-
