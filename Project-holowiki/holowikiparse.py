@@ -46,7 +46,7 @@ for index, row in nottidy.iterrows():
         keep.append(row)
 
 tidy = pd.DataFrame(keep, columns=nottidy.columns)
-# print(tidy)
+print(tidy)
 
 csvfile_path = r"C:\Users\Yu Zen\Documents\Coding\grape_soju\Project-holowiki\tidy_fanwiki.csv"
 
@@ -59,4 +59,6 @@ for namae in tidy['name']:
 
 tidy['channel_url'] = channelurl
 tidy.at[73, 'channel_url'] = 'https://www.youtube.com/@FUWAMOCOch'
+tidy.at[83, 'channel_url'] = 'https://www.youtube.com/@holoen_erbloodflame'
+tidy.at[85, 'channel_url'] = 'https://www.youtube.com/@holoen_ceciliaimmergreen'
 tidy.to_csv(csvfile_path, mode='w', header=True, index=False)
