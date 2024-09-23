@@ -1,3 +1,6 @@
 - Conclusion
  As we can see from holowiki_figure.png, enmyth has the greatest number of total subscribers. 2nd in place is gen3, then gen0, which is followed closely by gamers.
- From holowiki_figure_avgsubs.png, while it is true that enmyth has the greatest average subscriber count, that is largely due to one talent in particular, Gawr Gura, pulling up the average greatly and somewhat skewing the findings. Gen3 on the other hand has multiple talents with a large subscriber count. Perhaps it would be more accurate to calculate median to avoid such right-skewed distributions.
+ From holowiki_figure_avgsubs.png, while it is true that enmyth has the greatest average subscriber count, that is largely due to one talent in particular, Gawr Gura, pulling up the average greatly and somewhat skewing the findings. Gen3 on the other hand has multiple talents with a large subscriber count.
+ The same could be said about the average subscriber count of idgen3, which is also skewed to the right due to talent Kobo Kanaeru, who has almost 3m subscribers, with 1st runner up Vestia Zeta trailing far behind at just shy of 1m subscribers.
+
+ Perhaps it would be more accurate to calculate median for these instances to avoid such right-skewed distributions.
