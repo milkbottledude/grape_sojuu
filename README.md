@@ -5,7 +5,7 @@ this repository is formatted abit oddly, my beginner mistake was making a reposi
 ## Kaggle Competitions Notebooks
 1) Titanic - Machine Learning from Disaster
   - https://www.kaggle.com/code/milkbottledude/titanical-machine-learning
-  - https://www.kaggle.com/code/milkbottledude/titanical-machine-learning-mark-ii (latest version)
+  - https://www.kaggle.com/code/milkbottledude/titanical-machine-learning-mark-ii (latest version) (ranking: 827th out of 15013, so technically top 5.5%...??)
 
 3) House Prices - Advanced Regression Techniques
   - https://www.kaggle.com/code/milkbottledude/houseprices-machine-learning
