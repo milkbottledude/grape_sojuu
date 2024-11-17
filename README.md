@@ -1,5 +1,5 @@
-this repository is formatted abit oddly, my beginner mistake was making a repository inside a repository. Basically i made Project-holowiki, which was supposed to be the repository, inside grape_sojuu, which is another repository. Apologies for the confusion, the actual content of this repository is inside the folder Project-holowiki.
-
+Apologies for the confusion, the actual content of this repository is inside the folder Project-holowiki. This repository is formatted abit oddly, my beginner mistake was making a repository inside a repository. Basically i made Project-holowiki, which was supposed to be the repository, inside grape_sojuu, which is another repository.
+ 
 # Kaggle
 [Kaggle Profile](https://www.kaggle.com/milkbottledude)
 ## Kaggle Competitions Notebooks
