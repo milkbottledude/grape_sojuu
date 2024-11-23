@@ -14,6 +14,12 @@ Check out my Kaggle notebooks for detailed analyses and solutions :)
 
 # LeetCode
 [LeetCode Profile](https://leetcode.com/u/milkbottledude/)
+
+2 ez
+
+1 med
+
+0 hard
 ## LeetCode Courses Completed:
 - Introduction to Data Structure, Arrays 101
 - Introduction to Data Structure, Arrays and String
